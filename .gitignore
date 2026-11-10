@@ -1,0 +1,8 @@
+# EdgeOne Pages platform-generated files
+.edgeone/
+.env
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
